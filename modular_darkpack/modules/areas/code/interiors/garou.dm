@@ -31,4 +31,4 @@
 
 /area/vtm/interior/wyld/caern/bawn/LateInitialize()
 	. = ..()
-	AddComponent(/datum/component/bawn_area, /obj/structure/werewolf_totem/wyld)
+	AddComponent(/datum/component/bawn_area, /obj/structure/werewolf_totem/generic/wyld)
