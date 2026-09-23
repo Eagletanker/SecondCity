@@ -324,6 +324,21 @@
 
 	var/mob/user = ui.user
 
+	// CRIMSON GRID ADDITION START - normal taps!!
+	if(COOLDOWN_FINISHED(src, tap_sound_cooldown))
+		var/static/list/ignored_actions_for_clicksound = list(
+			"terminal_sound",
+			"keyboard_click",
+			"viewing_newscaster_channel"
+		)
+
+		if(!(action in ignored_actions_for_clicksound) && ringer)
+			playsound(loc, 'modular_vcg/master_files/sounds/item/smartphone/aosp/Effect_Tick.ogg', 10, FALSE)
+			COOLDOWN_START(src, tap_sound_cooldown, 0.1 SECONDS)
+		if(action == "clicksound")
+			return
+	// CRIMSON GRID ADDITION END - normal taps!!
+
 	var/passed_number = params["number"]
 	switch(action)
 		if("call")
