@@ -59165,6 +59165,8 @@
 /obj/structure/vampdoor/prison{
 	lockpick_difficulty = 15
 	},
+/obj/effect/mapping_helpers/door/access/park_ranger,
+/obj/effect/mapping_helpers/door/lock,
 /turf/open/floor/plating/rough,
 /area/vtm/interior)
 "nSc" = (
@@ -59230,8 +59232,6 @@
 	pixel_y = 8
 	},
 /obj/effect/turf_decal/siding/white,
-/obj/effect/mapping_helpers/door/access/park_ranger,
-/obj/effect/mapping_helpers/door/lock,
 /turf/open/floor/plating/rough,
 /area/vtm/interior)
 "nSH" = (
