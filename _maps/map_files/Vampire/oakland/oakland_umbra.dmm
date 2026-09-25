@@ -74,12 +74,6 @@
 /obj/structure/rack,
 /turf/open/floor/plating/concrete,
 /area/vtm/outside/penumbra)
-"bu" = (
-/obj/structure/flora/rock/stalagmite,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone4"
-	},
-/area/vtm/outside/penumbra)
 "bw" = (
 /obj/structure/table,
 /obj/item/restraints/handcuffs,
@@ -203,14 +197,6 @@
 /obj/structure/platform/lowwall/market/window,
 /turf/open/floor/plating/rough,
 /area/vtm/outside/penumbra)
-"cT" = (
-/obj/effect/turf_decal/darkpack/cave/corner{
-	dir = 4
-	},
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
-/area/vtm/outside/penumbra)
 "cV" = (
 /obj/structure/flora/bush/fullgrass/style_random,
 /obj/structure/flora/bush/flowers_br/style_random,
@@ -225,18 +211,6 @@
 "dj" = (
 /obj/machinery/vending/coffee,
 /turf/open/floor/city/plating_mono,
-/area/vtm/outside/penumbra)
-"dl" = (
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 4
-	},
-/obj/effect/decal/carpet{
-	icon_state = "greencarpet";
-	pixel_y = -8
-	},
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
 /area/vtm/outside/penumbra)
 "ds" = (
 /obj/structure/fence/door{
@@ -330,11 +304,6 @@
 /obj/effect/turf_decal/bordur,
 /turf/open/floor/plating/concrete,
 /area/vtm/outside/penumbra)
-"eg" = (
-/obj/structure/stone_tile/slab,
-/obj/structure/glowshroom/single,
-/turf/open/floor/plating/rough,
-/area/vtm/outside/penumbra)
 "ek" = (
 /obj/structure/rack/food{
 	dir = 4;
@@ -357,24 +326,6 @@
 	pixel_y = 15
 	},
 /turf/open/floor/wood/smooth,
-/area/vtm/outside/penumbra)
-"et" = (
-/obj/effect/decal/wallpaper/stone/low{
-	pixel_y = 24
-	},
-/obj/effect/decal/shadow{
-	pixel_y = -9
-	},
-/obj/effect/decal/wallpaper/stone/low{
-	pixel_y = 16
-	},
-/obj/structure/spacevine{
-	can_spread = 0;
-	pixel_y = 26
-	},
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
 /area/vtm/outside/penumbra)
 "ew" = (
 /obj/structure/lattice/grate,
@@ -520,18 +471,6 @@
 "fY" = (
 /turf/open/water/vamp_sewer,
 /area/vtm/outside/penumbra)
-"fZ" = (
-/obj/effect/turf_decal/darkpack/cave/corner{
-	dir = 4
-	},
-/obj/effect/decal/wallpaper/stone/low{
-	pixel_y = 24
-	},
-/obj/effect/decal/shadow,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
-/area/vtm/outside/penumbra)
 "gd" = (
 /obj/structure/railing,
 /obj/effect/turf_decal/siding/wood{
@@ -560,15 +499,6 @@
 	id = 601
 	},
 /turf/open/floor/city/toilet,
-/area/vtm/outside/penumbra)
-"gq" = (
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 9
-	},
-/obj/structure/flora/rock/pile/darkpack,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone4"
-	},
 /area/vtm/outside/penumbra)
 "gt" = (
 /obj/structure/railing{
@@ -661,10 +591,6 @@
 	pixel_x = 7
 	},
 /turf/open/floor/plating/concrete,
-/area/vtm/outside/penumbra)
-"hl" = (
-/obj/effect/turf_decal/darkpack/cave,
-/turf/open/floor/plating/rough,
 /area/vtm/outside/penumbra)
 "hq" = (
 /obj/machinery/griddle,
@@ -814,12 +740,6 @@
 	},
 /turf/open/floor/city/circled,
 /area/vtm/outside/penumbra)
-"iU" = (
-/obj/structure/flora/rock/pile/darkpack,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
-/area/vtm/outside/penumbra)
 "ja" = (
 /obj/effect/turf_decal/bordur{
 	dir = 8
@@ -827,15 +747,6 @@
 /turf/open/floor/iron/stairs{
 	dir = 4
 	},
-/area/vtm/outside/penumbra)
-"jb" = (
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 10
-	},
-/obj/structure/railing/wooden_fence{
-	dir = 10
-	},
-/turf/open/floor/plating/rough,
 /area/vtm/outside/penumbra)
 "jd" = (
 /obj/structure/table/wood,
@@ -887,11 +798,6 @@
 	},
 /turf/open/floor/wood/smooth/old,
 /area/vtm/outside/penumbra)
-"jA" = (
-/obj/effect/turf_decal/darkpack/cave,
-/obj/structure/railing/wooden_fence,
-/turf/open/floor/plating/rough,
-/area/vtm/outside/penumbra)
 "jK" = (
 /obj/structure/table,
 /obj/item/paper_bin,
@@ -928,18 +834,6 @@
 	},
 /obj/effect/decal/pallet,
 /turf/open/floor/wood/old,
-/area/vtm/outside/penumbra)
-"kl" = (
-/obj/effect/turf_decal/darkpack/cave/corner{
-	dir = 4
-	},
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 6
-	},
-/obj/structure/railing/wooden_fence{
-	dir = 6
-	},
-/turf/open/floor/plating/rough,
 /area/vtm/outside/penumbra)
 "kn" = (
 /obj/effect/turf_decal/siding/white{
@@ -1067,15 +961,6 @@
 "lN" = (
 /obj/structure/hedge,
 /turf/open/floor/city/toilet,
-/area/vtm/outside/penumbra)
-"lO" = (
-/obj/structure/stone_tile/surrounding_tile{
-	dir = 8
-	},
-/obj/effect/turf_decal/darkpack/cave/corner{
-	dir = 8
-	},
-/turf/open/floor/plating/rough,
 /area/vtm/outside/penumbra)
 "lP" = (
 /obj/machinery/light/floor/lamppost/sidewalk{
@@ -1423,15 +1308,6 @@
 	pixel_y = 8
 	},
 /turf/open/floor/wood/smooth/old,
-/area/vtm/outside/penumbra)
-"px" = (
-/obj/effect/decal/wallpaper/stone/low{
-	pixel_y = 24
-	},
-/obj/effect/decal/shadow,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
 /area/vtm/outside/penumbra)
 "pA" = (
 /obj/effect/turf_decal/siding/white{
@@ -1936,13 +1812,6 @@
 	},
 /turf/open/floor/carpet/red,
 /area/vtm/outside/penumbra)
-"vl" = (
-/obj/effect/turf_decal/darkpack/cave,
-/obj/structure/flora/rock/stalagmite,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
-/area/vtm/outside/penumbra)
 "vt" = (
 /turf/open/water/vamp_sewer/border,
 /area/vtm/outside/penumbra)
@@ -1993,9 +1862,6 @@
 	dir = 4
 	},
 /turf/open/floor/wood/smooth,
-/area/vtm/outside/penumbra)
-"wo" = (
-/turf/open/floor/plating/rough/cave,
 /area/vtm/outside/penumbra)
 "wG" = (
 /obj/effect/turf_decal/bordur{
@@ -2079,11 +1945,6 @@
 	dir = 10
 	},
 /turf/open/floor/plating/rough,
-/area/vtm/outside/penumbra)
-"xO" = (
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
 /area/vtm/outside/penumbra)
 "xT" = (
 /obj/structure/chair/office/darkpack/green{
@@ -2360,26 +2221,11 @@
 /obj/effect/decal/cleanable/litter,
 /turf/open/floor/wood/smooth/old,
 /area/vtm/outside/penumbra)
-"Co" = (
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 8
-	},
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone4"
-	},
-/area/vtm/outside/penumbra)
 "Cx" = (
 /obj/structure/table,
 /obj/item/folder/blue,
 /obj/structure/platform/lowwall/market,
 /turf/open/floor/plating/rough,
-/area/vtm/outside/penumbra)
-"CA" = (
-/obj/effect/turf_decal/darkpack/cave/corner,
-/obj/structure/glowshroom/single,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone4"
-	},
 /area/vtm/outside/penumbra)
 "CD" = (
 /obj/effect/decal/wallpaper/grey/low{
@@ -2389,18 +2235,6 @@
 	pixel_y = -5
 	},
 /turf/closed/wall/vampwall/bar,
-/area/vtm/outside/penumbra)
-"CG" = (
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 6
-	},
-/obj/effect/decal/wallpaper/stone/low{
-	pixel_y = 24
-	},
-/obj/effect/decal/shadow,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
 /area/vtm/outside/penumbra)
 "CS" = (
 /obj/structure/platform/lowwall/bar,
@@ -2415,12 +2249,6 @@
 	icon_state = "piping40"
 	},
 /turf/open/floor/plating/canal,
-/area/vtm/outside/penumbra)
-"Dd" = (
-/obj/structure/chair/plastic/darkpack{
-	dir = 1
-	},
-/turf/open/floor/plating/rough/cave,
 /area/vtm/outside/penumbra)
 "Dh" = (
 /obj/structure/table,
@@ -2527,13 +2355,6 @@
 /obj/effect/decal/cleanable/trash,
 /turf/open/floor/wood/old,
 /area/vtm/outside/penumbra)
-"Ek" = (
-/obj/effect/turf_decal/darkpack/cave/corner,
-/obj/structure/flora/rock/darkpack,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone4"
-	},
-/area/vtm/outside/penumbra)
 "El" = (
 /obj/effect/turf_decal/darkpack/grass/corner{
 	dir = 8
@@ -2580,11 +2401,6 @@
 	icon_state = "lavendergrass_3"
 	},
 /turf/open/misc/grass,
-/area/vtm/outside/penumbra)
-"EQ" = (
-/obj/structure/stone_tile/slab/cracked,
-/obj/structure/glowshroom/single,
-/turf/open/floor/plating/rough,
 /area/vtm/outside/penumbra)
 "EV" = (
 /obj/structure/railing{
@@ -2776,11 +2592,6 @@
 	},
 /turf/open/floor/carpet,
 /area/vtm/outside/penumbra)
-"GZ" = (
-/obj/structure/stone_tile/slab,
-/obj/effect/landmark/teleport_mark/alltribes,
-/turf/open/floor/plating/rough,
-/area/vtm/outside/penumbra)
 "Ha" = (
 /obj/effect/turf_decal/bordur{
 	dir = 1
@@ -2846,22 +2657,6 @@
 	dir = 8
 	},
 /turf/open/floor/wood/smooth/old,
-/area/vtm/outside/penumbra)
-"HK" = (
-/obj/effect/turf_decal/darkpack/cave,
-/obj/effect/decal/wallpaper/stone/low{
-	pixel_y = 24
-	},
-/obj/effect/decal/shadow{
-	pixel_y = -9
-	},
-/obj/effect/decal/wallpaper/stone/low{
-	pixel_y = 16
-	},
-/obj/structure/glowshroom/single,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
 /area/vtm/outside/penumbra)
 "HM" = (
 /obj/machinery/light/floor/lamppost/one{
@@ -3095,9 +2890,6 @@
 "Lb" = (
 /turf/open/floor/city/plating_mono,
 /area/vtm/outside/penumbra)
-"Lc" = (
-/turf/open/floor/iron/stairs/black,
-/area/vtm/outside/penumbra)
 "Ld" = (
 /obj/transfer_point_vamp/umbral{
 	id = 670
@@ -3116,14 +2908,6 @@
 	dir = 4
 	},
 /turf/open/floor/city/toilet,
-/area/vtm/outside/penumbra)
-"Lk" = (
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 9
-	},
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone4"
-	},
 /area/vtm/outside/penumbra)
 "Ln" = (
 /obj/effect/turf_decal/darkpack/dirt/corner{
@@ -3314,13 +3098,6 @@
 /obj/structure/chair/pew/left,
 /turf/open/floor/city/toilet,
 /area/vtm/outside/penumbra)
-"NX" = (
-/obj/structure/werewolf_totem/generic/alltribes{
-	pixel_y = 5
-	},
-/obj/structure/stone_tile/surrounding,
-/turf/open/floor/plating/rough,
-/area/vtm/outside/penumbra)
 "Of" = (
 /obj/structure/railing/corner{
 	dir = 8
@@ -3430,12 +3207,6 @@
 /obj/machinery/light/directional/north,
 /turf/open/floor/plating/concrete,
 /area/vtm/outside/penumbra)
-"Pf" = (
-/obj/structure/chair/comfy/darkpack/green{
-	dir = 1
-	},
-/turf/open/floor/plating/rough/cave,
-/area/vtm/outside/penumbra)
 "Pi" = (
 /obj/effect/turf_decal/bordur/corner{
 	dir = 1
@@ -3456,12 +3227,6 @@
 	icon_state = "piping35"
 	},
 /turf/open/floor/plating/canalplating,
-/area/vtm/outside/penumbra)
-"Pz" = (
-/obj/effect/turf_decal/darkpack/cave,
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
 /area/vtm/outside/penumbra)
 "PK" = (
 /obj/structure/chair/pew/right,
@@ -3578,12 +3343,6 @@
 /obj/minespot/playable,
 /turf/open/umbra,
 /area/vtm/outside/penumbra)
-"QP" = (
-/obj/structure/chair/office/darkpack/green{
-	dir = 1
-	},
-/turf/open/floor/plating/rough/cave,
-/area/vtm/outside/penumbra)
 "QR" = (
 /obj/effect/turf_decal/siding/wideplating{
 	color = "#802d29";
@@ -3648,13 +3407,6 @@
 	dir = 8
 	},
 /turf/open/floor/plating/sidewalk,
-/area/vtm/outside/penumbra)
-"RH" = (
-/obj/structure/stone_tile/surrounding_tile,
-/obj/effect/turf_decal/darkpack/cave/corner{
-	dir = 4
-	},
-/turf/open/floor/plating/rough,
 /area/vtm/outside/penumbra)
 "RI" = (
 /obj/structure/railing/corner{
@@ -3778,14 +3530,6 @@
 /obj/effect/turf_decal/siding/grey,
 /obj/structure/railing,
 /turf/open/floor/city/plating_stone,
-/area/vtm/outside/penumbra)
-"SH" = (
-/obj/effect/turf_decal/darkpack/cave{
-	dir = 6
-	},
-/turf/open/floor/plating/rough/cave{
-	icon_state = "stone8"
-	},
 /area/vtm/outside/penumbra)
 "SJ" = (
 /obj/structure/food_cart{
@@ -4014,14 +3758,6 @@
 	id = 701
 	},
 /turf/open/misc/grass,
-/area/vtm/outside/penumbra)
-"Wc" = (
-/obj/effect/turf_decal/darkpack/cave,
-/obj/structure/spacevine{
-	can_spread = 0;
-	pixel_y = 26
-	},
-/turf/open/floor/plating/rough,
 /area/vtm/outside/penumbra)
 "Wl" = (
 /obj/effect/decal/pallet{
@@ -4311,12 +4047,6 @@
 "Zr" = (
 /obj/structure/platform/lowwall/rich/window,
 /turf/open/floor/plating/rough,
-/area/vtm/outside/penumbra)
-"Zu" = (
-/obj/structure/chair/wood/darkpack{
-	dir = 8
-	},
-/turf/open/floor/plating/rough/cave,
 /area/vtm/outside/penumbra)
 "Zv" = (
 /obj/effect/decal/support,
@@ -9317,9 +9047,9 @@ qF
 qF
 qF
 Uh
-qF
-qF
-qF
+QO
+QO
+QO
 qF
 qF
 qF
@@ -9576,8 +9306,8 @@ Uh
 KO
 KO
 KO
-qF
-qF
+QO
+QO
 qF
 qF
 qF
@@ -9834,8 +9564,8 @@ KO
 KO
 KO
 KO
-qF
-qF
+QO
+QO
 qF
 qF
 qF
@@ -10093,7 +9823,7 @@ KO
 Po
 XQ
 KO
-qF
+QO
 qF
 qF
 qF
@@ -10607,7 +10337,7 @@ KO
 KO
 KO
 KO
-qF
+QO
 qF
 qF
 qF
@@ -10810,7 +10540,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -11577,7 +11307,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -11634,7 +11364,7 @@ KO
 KO
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -11842,7 +11572,7 @@ QO
 QO
 QO
 qF
-qF
+QO
 qF
 qF
 QO
@@ -12345,7 +12075,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -12355,9 +12085,9 @@ QO
 qF
 qF
 qF
+QO
 qF
-qF
-qF
+QO
 qF
 qF
 qF
@@ -12616,7 +12346,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -12867,7 +12597,7 @@ QO
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -13164,7 +12894,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -13380,7 +13110,7 @@ QO
 QO
 qF
 qF
-qF
+QO
 qF
 WE
 yi
@@ -13635,7 +13365,7 @@ qF
 QO
 QO
 qF
-qF
+QO
 qF
 qF
 WE
@@ -13932,7 +13662,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -14400,7 +14130,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -14458,7 +14188,7 @@ qF
 qF
 qF
 qF
-QO
+qF
 qF
 qF
 qF
@@ -14664,7 +14394,7 @@ QO
 QO
 QO
 qF
-qF
+QO
 qF
 qF
 qF
@@ -14710,7 +14440,7 @@ QO
 QO
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -14969,7 +14699,7 @@ QO
 qF
 qF
 qF
-QO
+qF
 qF
 qF
 qF
@@ -15187,8 +14917,8 @@ qF
 WE
 Tv
 QO
-qF
-qF
+QO
+QO
 QO
 DH
 qF
@@ -15439,36 +15169,10 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 QO
 QO
-qF
-qF
-qF
-QO
-QO
-QO
-qF
-qF
-qF
-qF
-QO
-QO
-QO
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
 qF
 QO
 QO
@@ -15477,13 +15181,39 @@ QO
 QO
 qF
 qF
+qF
+qF
+QO
+QO
 QO
 qF
 qF
 qF
 qF
 qF
+qF
+qF
+qF
+qF
+qF
+qF
+qF
+qF
+qF
 QO
+QO
+QO
+QO
+QO
+qF
+qF
+QO
+qF
+qF
+qF
+qF
+qF
+qF
 qF
 qF
 qF
@@ -15687,34 +15417,11 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 QO
 QO
 QO
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-qF
-QO
-QO
-QO
-QO
-qF
-qF
-QO
-QO
-QO
-QO
-qF
-qF
 qF
 qF
 qF
@@ -15730,6 +15437,9 @@ QO
 QO
 QO
 QO
+qF
+qF
+QO
 QO
 QO
 QO
@@ -15740,7 +15450,27 @@ qF
 qF
 qF
 qF
+qF
+qF
+qF
+qF
+qF
 QO
+QO
+QO
+QO
+QO
+QO
+QO
+QO
+qF
+qF
+qF
+qF
+qF
+qF
+qF
+qF
 qF
 qF
 qF
@@ -15957,7 +15687,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -16208,7 +15938,7 @@ QO
 QO
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -16474,7 +16204,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -16739,7 +16469,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 Uh
 Uh
@@ -16973,7 +16703,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -16993,7 +16723,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -17238,7 +16968,7 @@ QO
 QO
 QO
 qF
-qF
+QO
 qF
 qF
 qF
@@ -17746,7 +17476,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -17755,7 +17485,7 @@ QO
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -18017,11 +17747,11 @@ qF
 qF
 qF
 qF
+QO
 qF
 qF
 qF
-qF
-qF
+QO
 qF
 qF
 QO
@@ -18271,7 +18001,7 @@ QO
 QO
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -18519,7 +18249,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 QO
@@ -19551,7 +19281,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -19817,7 +19547,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -20071,7 +19801,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -20333,7 +20063,7 @@ qF
 qF
 qF
 qF
-qF
+QO
 qF
 QO
 QO
@@ -43062,7 +42792,7 @@ QO
 qF
 qF
 qF
-qF
+QO
 qF
 qF
 qF
@@ -43318,10 +43048,10 @@ QO
 qF
 qF
 QO
-Uh
-Uh
-Uh
 qF
+QO
+qF
+QO
 qF
 qF
 qF
@@ -43574,14 +43304,14 @@ QO
 QO
 QO
 QO
-QO
-Rg
-Uh
-et
-iU
-xO
-xO
-vl
+Tv
+qF
+qF
+qF
+qF
+qF
+qF
+qF
 qF
 qF
 qF
@@ -43830,16 +43560,16 @@ qF
 qF
 Sf
 QO
+Tv
 QO
-Rg
-Rg
-hl
-Lc
-xO
-xO
-cT
-SH
-wo
+QO
+QO
+qF
+qF
+qF
+qF
+qF
+qF
 qF
 qF
 qF
@@ -44087,16 +43817,16 @@ qF
 qF
 qF
 QO
+Tv
 QO
-Rg
-EQ
-lO
-jb
-px
-xO
-Pz
-Pf
-wo
+QO
+QO
+QO
+qF
+qF
+QO
+qF
+qF
 qF
 qF
 qF
@@ -44345,17 +44075,17 @@ QO
 qF
 qF
 QO
-Rg
-NX
-GZ
-jA
-fZ
-dl
-SH
-Dd
-wo
-wo
-wo
+QO
+QO
+QO
+QO
+QO
+qF
+qF
+qF
+qF
+qF
+qF
 qF
 qF
 qF
@@ -44602,17 +44332,17 @@ qF
 qF
 qF
 qF
-Uh
-eg
-RH
-kl
-CG
-wo
-wo
-QP
-wo
-wo
-Lk
+qF
+QO
+QO
+QO
+QO
+QO
+qF
+qF
+qF
+qF
+qF
 qF
 qF
 qF
@@ -44858,18 +44588,18 @@ qF
 qF
 qF
 qF
+QO
 qF
-Uh
-Uh
-Wc
-Lc
-wo
-wo
-wo
-wo
-Lk
-Co
-Ek
+qF
+QO
+QO
+QO
+QO
+qF
+QO
+qF
+qF
+qF
 qF
 qF
 qF
@@ -45118,14 +44848,14 @@ qF
 qF
 qF
 qF
-Uh
-HK
-Zu
+qF
 QO
 QO
-gq
-CA
-bu
+Tv
+Tv
+qF
+qF
+qF
 qF
 qF
 qF
@@ -45381,7 +45111,7 @@ QO
 QO
 QO
 qF
-qF
+QO
 qF
 qF
 qF
