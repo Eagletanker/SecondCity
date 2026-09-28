@@ -79733,7 +79733,6 @@
 /obj/item/bodypart/arm/right/skeleton/nonfunctional{
 	dir = 8;
 	desc = "At least it was quick...";
-	layer = 3;
 	pixel_x = 16;
 	name = "skelentonized arm";
 	anchored = 1
@@ -79742,8 +79741,7 @@
 	pixel_y = -5;
 	pixel_x = -11;
 	name = "cave-in";
-	desc = "Looks to be blocking the way. Damn.";
-	layer = 3
+	desc = "Looks to be blocking the way. Damn."
 	},
 /obj/effect/decal/cleanable/blood/gibs/old{
 	pixel_x = 6;
