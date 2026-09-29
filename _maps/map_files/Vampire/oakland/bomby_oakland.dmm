@@ -89107,10 +89107,6 @@
 /obj/effect/abstract/cargo_landing_spot,
 /turf/open/misc/dirt,
 /area/vtm/interior/supply)
-"uRn" = (
-/obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/vampwall/wood,
-/area/vtm/interior)
 "uRt" = (
 /obj/structure/table/wood,
 /obj/item/storage/fancy/candle_box,
@@ -304467,7 +304463,7 @@ vfg
 yma
 gSe
 fLV
-uRn
+vfg
 jNO
 gSe
 gSe
