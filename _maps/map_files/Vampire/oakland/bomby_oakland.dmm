@@ -53488,9 +53488,6 @@
 	},
 /turf/open/floor/wood/ornate,
 /area/vtm/interior/millennium_tower/f3)
-"myS" = (
-/turf/open/genturf,
-/area/vtm/outside/forest)
 "mzb" = (
 /obj/machinery/photocopier/gratis/prebuilt,
 /turf/open/floor/wood/smooth/old,
@@ -303845,7 +303842,7 @@ tks
 tks
 tks
 tks
-myS
+tks
 mPm
 vfg
 vfg
