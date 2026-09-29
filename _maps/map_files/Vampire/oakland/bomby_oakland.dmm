@@ -65187,7 +65187,6 @@
 /obj/effect/spawner/random/occult{
 	pixel_x = -11
 	},
-/mob/living/basic/ghost,
 /turf/open/misc/dirt/rails,
 /area/vtm/interior/caves)
 "piQ" = (
