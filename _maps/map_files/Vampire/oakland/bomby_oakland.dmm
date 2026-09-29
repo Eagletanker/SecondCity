@@ -3299,10 +3299,6 @@
 /obj/effect/landmark/event_spawn/szlachta,
 /turf/open/floor/plating/canalplating,
 /area/vtm/interior/sewer)
-"aQc" = (
-/obj/effect/decal/cleanable/dirt/dust,
-/turf/closed/wall/vampwall/rock,
-/area/vtm/interior/caves)
 "aQf" = (
 /obj/effect/turf_decal/siding/wideplating/dark{
 	dir = 10
@@ -286558,7 +286554,7 @@ uvs
 uvs
 aqb
 aqb
-aQc
+aqb
 wZY
 oTu
 aqb
@@ -287782,7 +287778,7 @@ uvs
 uvs
 aqb
 aqb
-aQc
+aqb
 wZY
 aqb
 aqb
