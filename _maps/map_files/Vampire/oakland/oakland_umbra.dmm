@@ -3583,11 +3583,6 @@
 	},
 /turf/open/floor/plating/sidewalkalt,
 /area/vtm/outside/penumbra)
-"Tv" = (
-/obj/minespot/playable,
-/obj/minespot/playable,
-/turf/open/umbra,
-/area/vtm/outside/penumbra)
 "TW" = (
 /obj/effect/decal/cleanable/trash,
 /obj/structure/closet/crate/dumpster,
@@ -44851,7 +44846,7 @@ qF
 qF
 QO
 QO
-Tv
+QO
 QO
 qF
 qF
