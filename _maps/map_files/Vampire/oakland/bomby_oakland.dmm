@@ -10303,9 +10303,6 @@
 	},
 /turf/open/floor/plating/roofwalk,
 /area/vtm)
-"crE" = (
-/turf/closed/wall/vampwall/painted,
-/area/vtm/outside/forest)
 "crF" = (
 /turf/open/floor/city/bacotell,
 /area/vtm/interior/shop)
@@ -30070,12 +30067,6 @@
 	},
 /turf/open/floor/wood/smooth/old,
 /area/vtm/interior/apartment)
-"haL" = (
-/obj/effect/turf_decal/bordur{
-	dir = 1
-	},
-/turf/closed/wall/vampwall/painted,
-/area/vtm/interior)
 "haM" = (
 /obj/effect/turf_decal/siding/grey{
 	dir = 4
@@ -37747,10 +37738,6 @@
 	},
 /turf/closed/wall/vampwall/bar,
 /area/vtm/interior/anarch)
-"iNy" = (
-/obj/effect/turf_decal/bordur,
-/turf/closed/wall/vampwall/painted,
-/area/vtm/interior)
 "iNz" = (
 /obj/effect/decal/cleanable/trash{
 	icon_state = "trash8"
@@ -60342,7 +60329,8 @@
 /turf/closed/wall/vampwall/junk,
 /area/vtm/interior/sewer/nosferatu_warren)
 "ocD" = (
-/turf/closed/wall/vampwall/painted,
+/obj/machinery/light/warm/directional/south,
+/turf/open/floor/plating/asphalt,
 /area/vtm/outside/pacificheights/community)
 "ocF" = (
 /obj/effect/turf_decal/darkpack/cave{
@@ -145925,13 +145913,13 @@ uvs
 uvs
 uvs
 uvs
-ocD
-ocD
-ocD
-ocD
-crE
-bal
-bal
+eGA
+eGA
+eGA
+eGA
+eGA
+uvs
+uvs
 uvs
 uvs
 uvs
@@ -146540,7 +146528,7 @@ aQu
 uoA
 cbn
 lfV
-cbn
+ocD
 jkG
 qzq
 bSf
@@ -310011,11 +309999,11 @@ sMZ
 aqb
 aqb
 ycd
-iNy
+ycd
 clu
 hfG
 qco
-haL
+ycd
 ycd
 aqb
 aqb
