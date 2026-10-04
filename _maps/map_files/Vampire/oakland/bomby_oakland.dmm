@@ -27236,6 +27236,7 @@
 	},
 /obj/effect/mapping_helpers/door/lock_difficulty/eight,
 /obj/effect/mapping_helpers/door/lock,
+/obj/effect/mapping_helpers/door/bash_difficulty/seven,
 /turf/open/floor/plating/rough/cave{
 	icon_state = "stone8"
 	},
@@ -70647,6 +70648,7 @@
 /area/vtm/outside/culture/italy)
 "qqV" = (
 /obj/structure/vampdoor/simple,
+/obj/effect/mapping_helpers/door/lock_difficulty/six,
 /turf/open/floor/plating/rough/cave{
 	icon_state = "stone8"
 	},
@@ -80782,6 +80784,7 @@
 	},
 /obj/effect/mapping_helpers/door/lock_difficulty/eight,
 /obj/effect/mapping_helpers/door/lock,
+/obj/effect/mapping_helpers/door/bash_difficulty/seven,
 /turf/open/floor/plating/rough/cave,
 /area/vtm/interior/wyld/caern/bawn)
 "sNr" = (
@@ -287083,7 +287086,7 @@ nMw
 eJy
 oCs
 qIN
-nMw
+oCs
 nMw
 nMw
 jtr
