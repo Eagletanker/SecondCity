@@ -10303,6 +10303,15 @@
 	},
 /turf/open/floor/plating/roofwalk,
 /area/vtm)
+"crE" = (
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/structure/flora/bush/flowers_pp,
+/obj/effect/turf_decal/darkpack/cave{
+	dir = 10
+	},
+/turf/open/misc/grass/nosmooth,
+/area/vtm/interior/wyld/caern)
 "crF" = (
 /turf/open/floor/city/bacotell,
 /area/vtm/interior/shop)
@@ -13312,6 +13321,10 @@
 /obj/structure/flora/rock/darkpack,
 /turf/open/misc/grass,
 /area/vtm/outside/forest)
+"deQ" = (
+/obj/machinery/light/warm/directional/south,
+/turf/open/floor/plating/asphalt,
+/area/vtm/outside/pacificheights/community)
 "deU" = (
 /obj/machinery/sprinkler,
 /turf/open/floor/city/plating_mono,
@@ -16074,7 +16087,10 @@
 /obj/structure/flora/bush/sparsegrass/style_random,
 /obj/structure/flora/bush/flowers_yw,
 /obj/effect/landmark/start/darkpack/forest_wolves/keeper,
-/turf/open/misc/grass,
+/obj/effect/turf_decal/darkpack/cave{
+	dir = 10
+	},
+/turf/open/misc/grass/nosmooth,
 /area/vtm/interior/wyld/caern)
 "dLH" = (
 /obj/structure/roofstuff/vent/autotiling,
@@ -24888,7 +24904,10 @@
 /obj/structure/flora/bush/sparsegrass/style_random,
 /obj/structure/flora/bush/flowers_br/style_random,
 /obj/structure/flora/rock/pile/darkpack,
-/turf/open/misc/grass,
+/obj/effect/turf_decal/darkpack/cave/corner{
+	dir = 8
+	},
+/turf/open/misc/grass/nosmooth,
 /area/vtm/interior/wyld/caern)
 "fPO" = (
 /obj/structure/curtain/cloth/fancy/mechanical{
@@ -27160,6 +27179,14 @@
 	},
 /turf/open/floor/plating/rough/cave,
 /area/vtm/interior/giovanni/basement)
+"grh" = (
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/turf_decal/darkpack/cave/corner{
+	dir = 8
+	},
+/turf/open/misc/grass/nosmooth,
+/area/vtm/interior/wyld/caern)
 "grs" = (
 /obj/effect/decal/wallpaper/red,
 /turf/closed/wall/vampwall/junk/alt,
@@ -30067,6 +30094,13 @@
 	},
 /turf/open/floor/wood/smooth/old,
 /area/vtm/interior/apartment)
+"haL" = (
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/effect/turf_decal/darkpack/cave/corner{
+	dir = 1
+	},
+/turf/open/misc/grass/nosmooth,
+/area/vtm/interior/wyld/caern)
 "haM" = (
 /obj/effect/turf_decal/siding/grey{
 	dir = 4
@@ -37738,6 +37772,12 @@
 	},
 /turf/closed/wall/vampwall/bar,
 /area/vtm/interior/anarch)
+"iNy" = (
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/flora/bush/flowers_yw,
+/obj/effect/turf_decal/darkpack/cave,
+/turf/open/misc/grass/nosmooth,
+/area/vtm/interior/wyld/caern)
 "iNz" = (
 /obj/effect/decal/cleanable/trash{
 	icon_state = "trash8"
@@ -50587,6 +50627,12 @@
 /obj/effect/decal/cleanable/trash,
 /turf/open/floor/plating/sidewalkalt,
 /area/vtm/outside/culture)
+"lOF" = (
+/obj/item/stack/rods/two,
+/turf/open/floor/plating/rough/cave{
+	icon_state = "stone8"
+	},
+/area/vtm/interior/wyld/caern)
 "lOG" = (
 /obj/effect/turf_decal/siding/grey/corner,
 /turf/open/floor/carpet/royalblack,
@@ -51461,7 +51507,10 @@
 	pixel_y = 24
 	},
 /obj/effect/decal/shadow,
-/turf/open/misc/grass,
+/obj/effect/turf_decal/darkpack/cave{
+	dir = 4
+	},
+/turf/open/misc/grass/nosmooth,
 /area/vtm/interior/wyld/caern)
 "lZY" = (
 /obj/effect/turf_decal/bordur,
@@ -60329,9 +60378,13 @@
 /turf/closed/wall/vampwall/junk,
 /area/vtm/interior/sewer/nosferatu_warren)
 "ocD" = (
-/obj/machinery/light/warm/directional/south,
-/turf/open/floor/plating/asphalt,
-/area/vtm/outside/pacificheights/community)
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/effect/turf_decal/darkpack/cave{
+	dir = 8
+	},
+/turf/open/misc/grass/nosmooth,
+/area/vtm/interior/wyld/caern)
 "ocF" = (
 /obj/effect/turf_decal/darkpack/cave{
 	dir = 9
@@ -65010,6 +65063,12 @@
 	},
 /turf/open/floor/wood/smooth/old,
 /area/vtm/interior/museum)
+"pcU" = (
+/obj/effect/turf_decal/darkpack/cave{
+	dir = 5
+	},
+/turf/open/misc/grass,
+/area/vtm/interior/wyld/caern)
 "pcV" = (
 /obj/structure/table/wood,
 /obj/item/kirbyplants/organic/plant17{
@@ -68965,7 +69024,10 @@
 /obj/structure/flora/bush/sparsegrass/style_random,
 /obj/structure/flora/bush/flowers_br/style_random,
 /obj/structure/flora/bush/flowers_pp,
-/turf/open/misc/grass,
+/obj/effect/turf_decal/darkpack/cave/corner{
+	dir = 8
+	},
+/turf/open/misc/grass/nosmooth,
 /area/vtm/interior/wyld/caern)
 "pWU" = (
 /obj/effect/decal/wallpaper/stone/low{
@@ -80553,6 +80615,13 @@
 	dir = 4
 	},
 /area/vtm/interior/museum)
+"sLq" = (
+/obj/structure/flora/bush/sparsegrass/style_random,
+/obj/effect/turf_decal/darkpack/cave{
+	dir = 5
+	},
+/turf/open/misc/grass/nosmooth,
+/area/vtm/interior/wyld/caern)
 "sLG" = (
 /obj/structure/railing{
 	dir = 1
@@ -146528,7 +146597,7 @@ aQu
 uoA
 cbn
 lfV
-ocD
+deQ
 jkG
 qzq
 bSf
@@ -284969,7 +285038,7 @@ liz
 liz
 liz
 hjr
-iey
+iNy
 lQZ
 cbi
 nMw
@@ -285174,7 +285243,7 @@ egz
 egz
 mNE
 fPN
-pWN
+crE
 oqS
 xmG
 nMw
@@ -285583,8 +285652,8 @@ jrQ
 rLd
 egz
 chh
-fMF
-fMF
+grh
+ocD
 nMw
 rsG
 laU
@@ -286396,7 +286465,7 @@ wyF
 jrQ
 jrQ
 mdK
-jrQ
+pcU
 egz
 egz
 cno
@@ -286606,7 +286675,7 @@ nMw
 nMw
 uNl
 laU
-qIN
+lOF
 qIN
 tHa
 jtr
@@ -286801,7 +286870,7 @@ nMw
 nMw
 nMw
 lZW
-egz
+haL
 egz
 egz
 sva
@@ -287005,8 +287074,8 @@ nMw
 nMw
 nMw
 kye
-egz
-egz
+sLq
+haL
 egz
 nMw
 nMw
