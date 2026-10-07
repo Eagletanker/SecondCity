@@ -18,6 +18,7 @@
 	icon_state = "cog_pantry"
 	fire_controled = TRUE
 
+// CRIMSON EDIT ADD START - Oakland Forest
 /area/vtm/interior/wyld
 
 /area/vtm/interior/wyld/caern
@@ -32,3 +33,5 @@
 /area/vtm/interior/wyld/caern/bawn/LateInitialize()
 	. = ..()
 	AddComponent(/datum/component/bawn_area, /obj/structure/werewolf_totem/generic/wyld)
+	
+// CRIMSON EDITT ADD END - Oakland Forest
